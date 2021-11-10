@@ -1,5 +1,5 @@
-# Olá mundo eu sou o João Lucas!😜
-## Desenvolvedor Web e eterno aprendiz💻⏳
+## Hello world, I'm João Lucas!😜
+### Web developer and eternal apprentice💻⏳
 
 <div align="center">
   <a href="https://github.com/joaolucas398">
