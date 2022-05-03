@@ -7,7 +7,7 @@
  ### Quem é o João 🤔?
  Meu nome é João Lucas, sou conhecido popularmente como o rapaz dos computadores😂, ou melhor, sou um estudante de programação full-stack.
  Atualmente estou me especializando na linguagem Java, junto com React na instituição [Generation Brazil](https://www.linkedin.com/school/generationbrasil/)
- Amante da tecnologia e com uma união vitalicia com a programação💍❤️.
+ <br>Amante da tecnologia e com uma união vitalicia com a programação💍❤️.
 <div align="center">
   <a href="https://github.com/Joaolucas398">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolucas398&layout=compact&langs_count=7&theme=dark"/>
