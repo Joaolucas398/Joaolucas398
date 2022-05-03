@@ -5,7 +5,7 @@
  </p>
  
  ### Quem é o João 🤔?
- Meu nome é João Lucas, sou conhecido popularmente como o rapaz dos computadores😂, ou melhor, sou um estudante de programação full-stack.<br>
+ Meu nome é João Lucas, sou conhecido popularmente como o rapaz dos computadores😂, ou melhor, sou um estudante de programação full-stack.
  Atualmente estou me especializando na linguagem Java, junto com React na instituição [Generation Brazil](https://www.linkedin.com/school/generationbrasil/)
  Amante da tecnologia e com uma união vitalicia com a programação💍❤️.
 <div align="center">
