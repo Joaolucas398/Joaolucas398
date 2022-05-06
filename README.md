@@ -1,13 +1,13 @@
-## Hello world, I'm João Lucas!😜
+<h1 align="center">Hello world, I'm João Lucas!😜</h1>
 
 <p align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?color=16A085&size=28&center=true&vCenter=true&lines=Full-Stack+Developer"(https://git.io/typing-svg)>
  </p>
  
- ### Quem é o João 🤔?
- Meu nome é João Lucas, sou conhecido popularmente como o rapaz dos computadores😂, ou melhor, sou um estudante de programação full-stack.
- Atualmente estou me especializando na linguagem Java, junto com React na instituição [Generation Brazil](https://www.linkedin.com/school/generationbrasil/)
- <br>Amante da tecnologia e com uma união vitalicia com a programação💍❤️.
+<h2 align="center">Quem é o João 🤔?</h2>
+
+ ### Meu nome é João Lucas, sou conhecido popularmente como o rapaz dos computadores😂, ou melhor, sou um estudante de programação.Atualmente estou me especializando na linguagem Java, junto com React na instituição [Generation Brazil](https://www.linkedin.com/school/generationbrasil/).<br>Amante da tecnologia e com uma união vitalicia com a programação💍❤️.
+ 
 <div align="center">
   <a href="https://github.com/Joaolucas398">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolucas398&layout=compact&langs_count=7&theme=dark"/>
