@@ -9,8 +9,9 @@
  Atualmente estou me especializando na linguagem Java, junto com React na instituição [Generation Brazil](https://www.linkedin.com/school/generationbrasil/)
  <br>Amante da tecnologia e com uma união vitalicia com a programação💍❤️.
 <div align="center">
-  <a href="">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Joaolucas398">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolucas398&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaolucas398&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ##
