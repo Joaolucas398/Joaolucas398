@@ -10,20 +10,24 @@
  
 <div align="center">
   <a href="https://github.com/Joaolucas398">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolucas398&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolucas398&layout=compact&langs_count=10&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaolucas398&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  
-##
- #### 🤓Desenvolvendo minhas habilidades em 👇 
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    
+<div align="center">    
+  <a href="https://github.com/Joaolucas398">       
+  <img alt="Joaolucas398's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaolucas398&theme=dark&hide_border=true"/></a>
+</div>   
+      
+<div>    
  <img align="center" alt="js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
- <img align="center" alt="js" src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=appveyor" />
- </div><br>
- 
-  #### Outros lugares que pode me encontar 👇
+ <img align="center" alt="java" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
+ <img align="center" alt="spring" src="https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring">
+ <img align="center" alt="js" src="https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python" />
+ <img align="center" alt="js" src="https://img.shields.io/badge/-MYSQL-lightgray?style=for-the-badge&logo=mysql" />
+    
+</div><br>
+  
 <div>
 <a href="https://www.instagram.com/lucasbreckgm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaolucadesouzapaz1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
