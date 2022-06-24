@@ -19,7 +19,7 @@
   <img alt="Joaolucas398's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaolucas398&theme=dark&hide_border=true"/></a>
 </div>   
       
-<div>    
+<div align="center">    
  <img align="center" alt="js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img align="center" alt="java" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
  <img align="center" alt="spring" src="https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring">
@@ -28,7 +28,7 @@
     
 </div><br>
   
-<div>
+<div align="center">
 <a href="https://www.instagram.com/lucasbreckgm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaolucadesouzapaz1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jlsouzapaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
