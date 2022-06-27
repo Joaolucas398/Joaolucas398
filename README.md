@@ -9,7 +9,7 @@
  ### Meu nome é João Lucas, sou conhecido popularmente como o rapaz dos computadores😂, ou melhor, sou um estudante de programação.Atualmente estou me especializando na linguagem Java, junto com React na instituição [Generation Brazil](https://www.linkedin.com/school/generationbrasil/).<br>Amante da tecnologia e com uma união vitalicia com a programação💍❤️.
  
  <details>
-  <summary><b>Informações Tecnicas </b></summary>
+  <summary><b>Informações técnica </b></summary>
     
 <div align="center">    
   <a href="https://github.com/Joaolucas398">       
