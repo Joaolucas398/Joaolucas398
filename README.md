@@ -4,19 +4,26 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=16A085&size=28&center=true&vCenter=true&lines=Full-Stack+Developer"(https://git.io/typing-svg)>
  </p>
  
+ 
 <h2 align="center">Quem é o João 🤔?</h2>
 
- ### Meu nome é João Lucas, sou conhecido popularmente como o rapaz dos computadores😂, ou melhor, sou um estudante de programação.Atualmente estou me especializando na linguagem Java, junto com React na instituição [Generation Brazil](https://www.linkedin.com/school/generationbrasil/).<br>Amante da tecnologia e com uma união vitalicia com a programação💍❤️.
- 
- <details>
+
+<div align="center">
+
+#### Olá, meu nome é João Lucas, sou um nordestino apaixonado por programação, que ao conhecer a tecnologia viu todo seu potencial de mudar vidas, incluvise a minha, tendo isso em mente procurei me capacitar cada vez mais, Atualmente estou me especializando na linguagem Java, junto com React na instituição [Generation Brazil](https://www.linkedin.com/school/generationbrasil/).
+### Conheça o que aprendi e desenvolvi ao decorrer dessa jornada :rocket:.
+
+<img src="https://media.discordapp.net/attachments/992082604792750240/996242814469951509/unknown.png?width=559&height=422" width="350px"/>
+<div/>
+ <details >
   <summary><b>Informações técnica </b></summary>
     
 <div align="center">    
-  <a href="https://github.com/Joaolucas398">       
-  <img alt="Joaolucas398's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaolucas398&theme=dark&hide_border=true"/></a>
-</div> 
-
-<div align="center">
+  <a align="" href="https://github.com/Joaolucas398">       
+  <img  alt="Joaolucas398's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaolucas398&theme=dark&hide_border=true"/></a>
+<div/>
+    
+<div>
   <a href="https://github.com/Joaolucas398">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaolucas398&layout=compact&langs_count=10&theme=dark"/>
   
@@ -30,6 +37,7 @@
  <img align="center" alt="js" src="https://img.shields.io/badge/-MYSQL-lightgray?style=for-the-badge&logo=mysql" />
     
 </div><br>
+
 </details>  
 
 <div align="center">
