@@ -10,7 +10,7 @@
 
 <div align="center">
 
-#### Olá, meu nome é João Lucas, sou um nordestino apaixonado por programação, que ao conhecer a tecnologia viu todo seu potencial de mudar vidas, incluvise a minha, tendo isso em mente procurei me capacitar cada vez mais, Atualmente estou me especializando na linguagem Java, junto com React na instituição [Generation Brazil](https://www.linkedin.com/school/generationbrasil/).
+#### Olá, meu nome é João Lucas, sou um nordestino apaixonado por programação, que ao conhecer a tecnologia viu todo seu potencial de mudar vidas, incluvise a minha, tendo isso em mente procurei me capacitar cada vez mais.
 ### Conheça o que aprendi e desenvolvi ao decorrer dessa jornada :rocket:.
 
 <img src="https://media.discordapp.net/attachments/992082604792750240/996242814469951509/unknown.png?width=559&height=422" width="350px"/>
