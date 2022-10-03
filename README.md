@@ -1,7 +1,7 @@
 <h1 align="center">Hello world, I'm João Lucas!😜</h1>
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=16A085&size=28&center=true&vCenter=true&lines=Full-Stack+Developer"(https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?color=ffff00&size=28&center=true&vCenter=true&lines=Full-Stack+Developer"(https://git.io/typing-svg)>
  </p>
  
  
