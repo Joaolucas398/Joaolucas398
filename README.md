@@ -12,8 +12,6 @@
 
 #### Olá, meu nome é João Lucas, sou um nordestino apaixonado por programação, que ao conhecer a tecnologia viu todo seu potencial de mudar vidas, incluvise a minha, tendo isso em mente procurei me capacitar cada vez mais.
 
-#### Hoje faço parte do [Bees](https://www.linkedin.com/company/beesbrasil/) :honeybee: que é uma célula tech que cria soluções para dar suporte à operação da [Ambev](https://www.linkedin.com/company/ambev/) e [AB InBev](https://www.linkedin.com/company/ab-inbev/), no Brasil e no mundo. 
-
 <img src="https://media.discordapp.net/attachments/992082604792750240/996242814469951509/unknown.png?width=559&height=422" width="350px"/>
 <div/>
  <details >
