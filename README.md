@@ -5,7 +5,7 @@
 
 <div align="center">
 
-#### Olá, meu nome é João Lucas, sou um nordestino apaixonado por programação, que ao conhecer a tecnologia viu todo seu potencial de mudar vidas, incluvise a minha, tendo isso em mente procurei me capacitar cada vez mais.
+#### Olá, meu nome é João Lucas, sou um nordestino apaixonado por programação, que ao conhecer a tecnologia viu todo seu potencial de mudar vidas, incluvise a minha, tendo isso em mente procurei me capacitar cada vez mais, e aqui você pode encontrar um pouco do que sou capaz!.
 
 <div/>
     
