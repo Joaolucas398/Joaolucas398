@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, I'm João Lucas!😜</h1>
  <div whid align="center" >
-    <img width="1300" src="https://media.discordapp.net/attachments/992082604792750240/1150222801421209752/Front-end_developer.png?width=1440&height=363"/>
+    <img width="1300" src="https://media.discordapp.net/attachments/992082604792750240/1150436560081264680/Front-end_developer_1.png?width=1440&height=363"/>
  </div>
 
 <div align="center">
